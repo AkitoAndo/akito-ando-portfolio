@@ -1,0 +1,70 @@
+{
+  "username": "akito-ando",
+  "pinnedRepositories": [
+    {
+      "name": "ecommerce-api",
+      "description": "高性能なEコマースプラットフォームAPI - Node.js, TypeScript, PostgreSQL",
+      "language": "TypeScript",
+      "stars": 45,
+      "forks": 8,
+      "topics": ["api", "ecommerce", "nodejs", "typescript", "postgresql"]
+    },
+    {
+      "name": "realtime-dashboard",
+      "description": "リアルタイムデータ可視化ダッシュボード - React, D3.js, WebSocket",
+      "language": "JavaScript",
+      "stars": 32,
+      "forks": 6,
+      "topics": ["react", "d3js", "websocket", "dashboard", "visualization"]
+    },
+    {
+      "name": "task-manager-saas",
+      "description": "チーム向けタスク管理SaaS - React, Node.js, MongoDB",
+      "language": "TypeScript",
+      "stars": 28,
+      "forks": 4,
+      "topics": ["saas", "task-management", "react", "mongodb", "nodejs"]
+    },
+    {
+      "name": "headless-cms",
+      "description": "ヘッドレスCMSとフロントエンド統合システム - Next.js, Strapi",
+      "language": "JavaScript",
+      "stars": 19,
+      "forks": 3,
+      "topics": ["cms", "nextjs", "strapi", "headless", "ssg"]
+    },
+    {
+      "name": "cli-dev-tools",
+      "description": "開発者向けCLIツール - Go, Cobra",
+      "language": "Go",
+      "stars": 156,
+      "forks": 23,
+      "topics": ["cli", "golang", "developer-tools", "automation"]
+    },
+    {
+      "name": "react-ui-components",
+      "description": "再利用可能なReact UIコンポーネントライブラリ",
+      "language": "TypeScript",
+      "stars": 87,
+      "forks": 12,
+      "topics": ["react", "ui-components", "typescript", "storybook"]
+    }
+  ],
+  "stats": {
+    "totalRepositories": 42,
+    "totalStars": 367,
+    "totalForks": 56,
+    "primaryLanguages": [
+      { "name": "TypeScript", "percentage": 35 },
+      { "name": "JavaScript", "percentage": 28 },
+      { "name": "Python", "percentage": 20 },
+      { "name": "Go", "percentage": 12 },
+      { "name": "Other", "percentage": 5 }
+    ]
+  },
+  "contributions": {
+    "lastYear": 1247,
+    "currentStreak": 23,
+    "longestStreak": 89
+  }
+}

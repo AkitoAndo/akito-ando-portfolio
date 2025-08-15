@@ -1,0 +1,82 @@
+{
+  "pinnedRepositories": [
+    {
+      "id": 1,
+      "name": "ai-powered-dashboard",
+      "full_name": "akito-ando/ai-powered-dashboard",
+      "description": "AIを活用したリアルタイムダッシュボードアプリケーション。複雑なデータの可視化と自動分析機能を提供",
+      "html_url": "https://github.com/akito-ando/ai-powered-dashboard",
+      "language": "TypeScript",
+      "stargazers_count": 245,
+      "forks_count": 42,
+      "updated_at": "2024-01-15T10:30:00Z",
+      "topics": ["react", "typescript", "ai", "dashboard", "data-visualization"],
+      "private": false
+    },
+    {
+      "id": 2,
+      "name": "microservices-boilerplate",
+      "full_name": "akito-ando/microservices-boilerplate",
+      "description": "Node.js、Docker、Kubernetesを使用したマイクロサービスアーキテクチャのボイラープレート",
+      "html_url": "https://github.com/akito-ando/microservices-boilerplate",
+      "language": "JavaScript",
+      "stargazers_count": 187,
+      "forks_count": 35,
+      "updated_at": "2024-01-10T15:45:00Z",
+      "topics": ["nodejs", "microservices", "docker", "kubernetes", "aws"],
+      "private": false
+    },
+    {
+      "id": 3,
+      "name": "react-performance-toolkit",
+      "full_name": "akito-ando/react-performance-toolkit",
+      "description": "Reactアプリケーションのパフォーマンスを最適化するためのツールとベストプラクティス集",
+      "html_url": "https://github.com/akito-ando/react-performance-toolkit",
+      "language": "TypeScript",
+      "stargazers_count": 156,
+      "forks_count": 28,
+      "updated_at": "2024-01-08T09:20:00Z",
+      "topics": ["react", "performance", "optimization", "typescript"],
+      "private": false
+    },
+    {
+      "id": 4,
+      "name": "go-rest-api-template",
+      "full_name": "akito-ando/go-rest-api-template",
+      "description": "Go言語による高性能RESTful APIサーバーのテンプレート。JWT認証、データベース接続、ミドルウェア実装済み",
+      "html_url": "https://github.com/akito-ando/go-rest-api-template",
+      "language": "Go",
+      "stargazers_count": 132,
+      "forks_count": 21,
+      "updated_at": "2024-01-05T14:00:00Z",
+      "topics": ["golang", "rest-api", "jwt", "postgresql", "docker"],
+      "private": false
+    },
+    {
+      "id": 5,
+      "name": "python-ml-pipeline",
+      "full_name": "akito-ando/python-ml-pipeline",
+      "description": "機械学習モデルの開発からデプロイまでを効率化するPythonパイプライン",
+      "html_url": "https://github.com/akito-ando/python-ml-pipeline",
+      "language": "Python",
+      "stargazers_count": 98,
+      "forks_count": 18,
+      "updated_at": "2023-12-28T11:30:00Z",
+      "topics": ["python", "machine-learning", "mlops", "tensorflow", "pytorch"],
+      "private": false
+    },
+    {
+      "id": 6,
+      "name": "serverless-graphql-api",
+      "full_name": "akito-ando/serverless-graphql-api",
+      "description": "AWS LambdaとDynamoDBを使用したサーバーレスGraphQL APIの実装例",
+      "html_url": "https://github.com/akito-ando/serverless-graphql-api",
+      "language": "TypeScript",
+      "stargazers_count": 76,
+      "forks_count": 14,
+      "updated_at": "2023-12-20T16:45:00Z",
+      "topics": ["serverless", "graphql", "aws-lambda", "dynamodb", "typescript"],
+      "private": false
+    }
+  ]
+}
